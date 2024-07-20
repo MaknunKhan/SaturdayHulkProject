@@ -36,19 +36,11 @@ public class EbayCartSteps {
 		EbayCartActionsObj.addToCart();
 	}
 	
-//	@When("^Select US Shoe Size$")
-//	public void select_US_Shoe_Size() throws Throwable {
-//	   
-//	}
-	@When("^Mouse Hover to MyEbay Summary$")
-	public void mouse_Hover_to_MyEbay_Summary() throws Throwable {
+	@When("^Select US Shoe Size$")
+	public void select_US_Shoe_Size() throws Throwable {
 	   
 	}
 
-	@Then("^Click on Summary$")
-	public void click_on_Summary() throws Throwable {
-	    
-	}
 	
 	
 	
